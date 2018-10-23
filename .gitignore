@@ -1,0 +1,13 @@
+.idea
+*.iml
+*.iws
+*.ipr
+.gradle
+out
+classes
+**/target
+**/*.log
+build
+ssl/keystore.p12
+atlassian-ide-plugin.xml
+__pycache__/
